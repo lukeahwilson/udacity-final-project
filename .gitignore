@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data (too heavy)
+/flower
+flower_data.tar.gz
+
 # C extensions
 *.so
 
